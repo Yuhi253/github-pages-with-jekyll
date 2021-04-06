@@ -1,3 +1,4 @@
+---
 title: "Yuhi253のサイト"
 date: 2021-04-06
 theme: minima
@@ -13,3 +14,4 @@ twitter_username: Wo5FbTH7JO1DIHV # DO NOT include the @ character, or else the 
 github_username:  Yuhi253 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
